@@ -1,0 +1,31 @@
+[
+    {
+        "bannerImage": "https://i.ibb.co/5WV0QtGj/Primary-Photo-Placeholder-1.png",
+        "ImageSecond": "https://i.ibb.co/gMhGs50b/Secondary-Photo-Placeholder-2.png",
+        "ImageThird": "https://i.ibb.co/5WV0QtGj/Primary-Photo-Placeholder-1.png",
+        "TotalImage": "100",
+        "Title": "Magic Mushrooms",
+        "ProfileName": "Shroomie",
+        "ProfileImage": "https://i.ibb.co/21Dv3KsC/Artist-Avatar-3.png"
+    },
+    {
+        "bannerImage": "https://i.ibb.co/fG06VtdR/Primary-Photo-Placeholder-2.png",
+        "ImageSecond": "https://i.ibb.co/MDtqWY9N/Secondary-Photo-Placeholder-3.png",
+        "ImageThird": "https://i.ibb.co/fG06VtdR/Primary-Photo-Placeholder-2.png",
+        "TotalImage": "300",
+        "Title": "Disco Machines",
+        "ProfileName": "MrFox",
+        "ProfileImage": "https://i.ibb.co/ynqX5rFK/Artist-Avatar-2.png"
+    },
+    {
+        "bannerImage": "https://i.ibb.co/LX6pBHn8/Primary-Photo-Placeholder.png",
+        "ImageSecond": "https://i.ibb.co/fdg9hN9S/Secondary-Photo-Placeholder.png",
+        "ImageThird": "https://i.ibb.co/hRj871wn/Secondary-Photo-Placeholder-1.png",
+        "TotalImage": "999",
+        "Title": "DSGN Animals",
+        "ProfileName": "Mr leeo",
+        "ProfileImage": "https://i.ibb.co/VcdtZz8Y/Artist-Avatar-1.png"
+    }
+    
+    
+]
