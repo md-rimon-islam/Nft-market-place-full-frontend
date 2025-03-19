@@ -5,9 +5,9 @@ import { CiInstagram } from "react-icons/ci";
 
 function Footer() {
   return (
-    <div className=' h-96 bg-[#3B3B3B] border-t-2 border-gray-100'>
-        <div className='max-w-7xl mx-auto px-36 pt-10 '>
-           <div className=' pb-7 border-b border-[#CCCCCC] grid grid-cols-3 gap-10'>
+    <div className=' h-full lg:h-96 bg-[#3B3B3B] border-t-2 border-gray-100'>
+        <div className='max-w-7xl mx-auto [] px-5 md:px-10 lg:px-36 pt-10 '>
+           <div className=' pb-7 border-b border-[#CCCCCC] grid lg:grid-cols-3 gap-10'>
                 <div >
                     <div className=' flex items-center gap-3 pb-8'>
                         <span className=' text-3xl font-extrabold text-[#A259FF]'><CiShop /></span>
